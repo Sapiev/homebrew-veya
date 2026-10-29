@@ -1,6 +1,6 @@
 cask "veya" do
-  version "1.1.0"
-  sha256 "a4792be1ef859da47790e4af235d0c6eca6cdddee2d925aeb4cc8e26123a1482"
+  version "1.1.1"
+  sha256 "2d625e799e951d3edfc8fb2996627c7d324ad535f52dde52aec3ec91d46d4cf6"
 
   url "https://github.com/Sapiev/Veya/releases/download/v#{version}/Veya-#{version}.dmg"
   name "Veya"
